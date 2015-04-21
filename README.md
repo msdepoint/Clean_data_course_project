@@ -3,10 +3,10 @@ This is a repo that contains the necessary content for the Getting and Cleaning 
 
 The data comes from this location
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-
 Here are the data for the project: 
-
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
+This was manually downloaded and unzipped into a location. Change your working directory to that location, but assume that the directory structure of the unzipped file remains intact.
 
 
 ##STEP 1 Merges the training and the test sets to create one data set.
